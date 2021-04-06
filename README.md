@@ -1,2 +1,2 @@
 # html
-A basic HTML template, and testing with code
+A basic HTML template for Physics revision
