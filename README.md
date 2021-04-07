@@ -1,4 +1,3 @@
 # html
-A basic HTML template for Physics revision.
-Opacity animation runs through CSS.<br>
-a
+A basic HTML template for Physics revision. <br>
+Opacity animation runs through CSS.
